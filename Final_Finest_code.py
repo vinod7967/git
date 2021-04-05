@@ -1,7 +1,7 @@
 """Importing sys & datetime modules"""
 import datetime
 
-
+import math
 def output(exp_lst):
     """Prints the output data"""
     print("\nDate", datetime.date.today())
